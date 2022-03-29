@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
+global . pemilik  = [ '6285338314194' , '6285338314194' , '6285338314194' ]
+global . nama pemilik = ' YUZZU  ' 
+global . premi  = [ '6285338314194' ]
+global . nama pemilik = 'YUZZU  KAMIYAKA'
+global . nama bot = ' Keyolbot  -Md' 
 global.footer = 'Keyolbot-Md'
 global.email = 'selawikwok@gmail.com'
 global.ig = 'https://instagram.com/shelaaa817'
